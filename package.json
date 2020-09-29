@@ -1,0 +1,48 @@
+{
+  "name": "hapijs-mongoose-init",
+  "version": "1.0.0",
+  "description": "Pilot for any project made with Node.js, MongoDB and ORM Mongoose. This will help any programmer to quickly start the development of a new application with Javascript and NoSQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sldeaals/hapijs-mongoose-init.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "node-js",
+    "hapi",
+    "hapijs",
+    "hapijs-backend",
+    "hapi-server",
+    "hapi-api",
+    "hapi-swagger",
+    "mongodb",
+    "mongoose",
+    "mongoosejs",
+    "mongoose-crud-operation"
+  ],
+  "author": "Daniel Elías Arias Agüero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sldeaals/hapijs-mongoose-init/issues"
+  },
+  "homepage": "https://github.com/sldeaals/hapijs-mongoose-init#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.0.1",
+    "@hapi/inert": "^6.0.3",
+    "@hapi/joi": "^17.1.1",
+    "@hapi/vision": "^6.0.1",
+    "bcrypt": "^5.0.0",
+    "hapi-swagger": "^14.0.0",
+    "joi": "^17.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.0",
+    "mongoose": "^5.10.7",
+    "nodemailer": "^6.4.11",
+    "nodemon": "^2.0.4"
+  }
+}
